@@ -1,1 +1,1 @@
-Test
+BaconCraft was created to be a long term pack, darkosto had a very good platform with great scripts to build off of and tweak. I will be maintaining the modpack myself and manually updating and tweaking things at a hopefully frequent timeframe. Recipes being tweaked or removed and added into the loot pool to promote trading and exploration.
